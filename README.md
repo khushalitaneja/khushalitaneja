@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushalitaneja
-- 👀 I’m interested in becoming a Marketing Analyst
-- 🌱 I’m currently learning Power BI, Google Analytics, Azure
+- 👀 I’m currently studying Business and Insights Analytics Program from Humber College and looking forward to become a Business Analyst in Financial Instiution
+- 🌱 I’m currently learning Power BI, SQL, Python
 
 <!---
 khushalitaneja/khushalitaneja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
